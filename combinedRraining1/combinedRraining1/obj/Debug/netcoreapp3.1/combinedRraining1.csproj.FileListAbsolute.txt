@@ -1,0 +1,13 @@
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\bin\Debug\netcoreapp3.1\combinedRraining1.exe
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\bin\Debug\netcoreapp3.1\combinedRraining1.deps.json
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\bin\Debug\netcoreapp3.1\combinedRraining1.runtimeconfig.json
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\bin\Debug\netcoreapp3.1\combinedRraining1.runtimeconfig.dev.json
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\bin\Debug\netcoreapp3.1\combinedRraining1.dll
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\bin\Debug\netcoreapp3.1\combinedRraining1.pdb
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.csprojAssemblyReference.cache
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.csproj.CoreCompileInputs.cache
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.AssemblyInfoInputs.cache
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.AssemblyInfo.cs
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.dll
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.pdb
+D:\projects\c#\cSharpStudy\combinedRraining1\combinedRraining1\obj\Debug\netcoreapp3.1\combinedRraining1.genruntimeconfig.cache
